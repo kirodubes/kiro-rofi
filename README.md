@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="kiro.jpg" alt="Kiro" width="220" />
+</p>
+
 # edu-rofi
 
 Erik's [rofi](https://github.com/davatorium/rofi) launcher config — a customised set of keybindings, theme references, and helper scripts dropped on top of vanilla rofi. Part of the `~/EDU/` learning series.
