@@ -2,7 +2,7 @@
   <img src="kiro.jpg" alt="Kiro" width="220" />
 </p>
 
-# edu-rofi
+# kiro-rofi
 
 Erik's [rofi](https://github.com/davatorium/rofi) launcher config — a customised set of keybindings, theme references, and helper scripts dropped on top of vanilla rofi. Part of the `~/EDU/` learning series.
 
@@ -13,7 +13,7 @@ Erik's [rofi](https://github.com/davatorium/rofi) launcher config — a customis
 
 ## Companion repo
 
-- [edu-rofi-themes](https://github.com/erikdubois/edu-rofi-themes) — bundle of rofi themes (`*.rasi`) that pair with this config.
+- [kiro-rofi-themes](https://github.com/kirodubes/kiro-rofi-themes) — bundle of rofi themes (`*.rasi`) that pair with this config.
 
 ## Installation
 
@@ -27,7 +27,7 @@ Server = https://erikdubois.github.io/$repo/$arch
 
 ```bash
 sudo pacman -Syu
-sudo pacman -S edu-rofi-git
+sudo pacman -S kiro-rofi
 ```
 
 You'll also need rofi:
@@ -39,8 +39,8 @@ sudo pacman -S rofi
 ### Manual
 
 ```bash
-git clone https://github.com/erikdubois/edu-rofi.git
-cd edu-rofi
+git clone https://github.com/kirodubes/kiro-rofi.git
+cd kiro-rofi
 sudo cp -r etc/skel/. /etc/skel/
 ```
 
