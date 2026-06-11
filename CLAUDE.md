@@ -1,4 +1,4 @@
-# CLAUDE.md — edu-rofi
+# CLAUDE.md — kiro-rofi
 
 ## Project overview
 
