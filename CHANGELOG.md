@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026.11.06
+
+### What Changed
+- The spare upstream config in `files/` no longer names Papirus as the icon theme, so it does not look like a Kiro
+  setting. Nothing loads that file; the active `config.rasi` already follows the GTK icon theme.
+
+### Files Modified
+- `etc/skel/.config/rofi/files/config.rasi`
+- `CHANGELOG.md`
+
 ## 2026.05.21
 
 ### What Changed
